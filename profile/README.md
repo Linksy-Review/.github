@@ -54,6 +54,7 @@ Linksy uses advanced NLP and a custom keyword extraction algorithm to deliver:
 - SEO optimization guides
 - Internal linking strategies
 - WordPress content management tips
+- An Alternative for Linksy is [Link Whisper](https://github.com/Linkwhisper-Review/)
 
 More Information about SEO at https://t.me/tllseo
 
